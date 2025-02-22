@@ -45,6 +45,7 @@ Patients that come into the ER typically spend 35 minutes from when they check i
 African American children within 3 and 12 years mostly treat gastroenterology related illnesses, and White Adults and young adults within ages 36-55 and 20-35 is mostly referred to Renal and Neurology department respectively. While a lot of  elderly White men and women more than 55 years are discharged directly from the ER, most frequently treat cardiology, orthopedics, physiotherapy, neurology, and general practice related illnesses. 
 
 The ER is least visited during the winter period, and is at its peak just before the end of summer in August. Therefore, winter period is the best time for ER staff developmental programs.
+
 At the end of a visit to the ER, patients’ satisfaction of the experience is almost never affected by the wait time **only**. Further analysis (Feature Selection Process) can be carried out to determine other factors that influence patients’ satisfaction score. However, it is crucial to reduce patients wait time to the barest minimum by keeping track of the busiest periods and matching up with adequate staff to properly care for patients. Finally, hospital policies on doctor to patient ratio and employment of ER staff may be reviewed to reduce work load and  less burnout which improves patients care and experience in the ER and ultimately patients satisfaction score. 
 
 
